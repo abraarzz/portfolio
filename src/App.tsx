@@ -73,7 +73,7 @@ export default function App() {
           {/* Central Image */}
           <div className="absolute bottom-0 left-1/2 -translate-x-1/2 w-[300px] md:w-[500px] h-[450px] md:h-[750px] z-10">
             <img 
-              src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" 
+              src="https://i.ibb.co/bDPvpZW/ffd17412-0046-40f5-b580-796b257dea71-removalai-preview-1.png" 
               alt="Abraar Ibrahim Portrait" 
               className="w-full h-full object-cover object-top drop-shadow-2xl"
               style={{ filter: "grayscale(100%) contrast(120%)" }}
